@@ -18,4 +18,4 @@
 Follow along with my demonstration to use em and % to style the header
 
 ## Exercise
-Using box-model properties, style the gallery to look like the image below. You should use % and em 
+Using box-model properties, style the gallery to look like the image below. You should use % and em so that it looks consitent regardless of the size of the window
