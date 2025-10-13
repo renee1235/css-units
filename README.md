@@ -1,12 +1,12 @@
 # css-units
 
 ## Learning Target
-- I am learning how to use % and em to set the size of things relative to their container
+- I am learning how to use ```%``` and ```em``` to make the size of things automatically adjust with the size of the screen
 
 ## Success Criteria
-- I can use % to set a property size relative to the container element
-- I can use em to set a property size relative to the container’s font-size
-- I can use width, height, padding, margin, and border CSS properties to control the size of HTML elements
+- I can use ```%``` to set a property size relative to the container element
+- I can use ```em``` to set a property size relative to the container’s font-size
+- I can use ```width```, ```height```, ```padding```, ```margin```, and ```border``` CSS properties to control the size of HTML elements
 
 
 ## Directions
@@ -18,4 +18,7 @@
 Follow along with my demonstration to use em and % to style the header
 
 ## Exercise
-Using box-model properties, style the gallery to look like the image below. You should use % and em so that it looks consitent regardless of the size of the window
+Using box-model properties, style the gallery to look like the image below.  
+**You should use % or em for width, margin, and padding**  
+<img src="screenshot1.png" width="50%">  
+<img src="screenshot2.png" width="50%">
