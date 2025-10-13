@@ -13,3 +13,9 @@
 1. Install Live Server and Go Live to view how the webpage looks with no styling
 2. Create ```style.css``` and link it to ```index.html``` 
 3. Follow along with my demonstration to review using CSS box-model properties to style the header
+
+## Example
+Follow along with my demonstration to use em and % to style the header
+
+## Exercise
+Using box-model properties, style the gallery to look like the image below. You should use % and em 
