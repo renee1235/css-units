@@ -6,8 +6,7 @@
 ## Success Criteria
 - I can use ```%``` to set a property size relative to the container element
 - I can use ```em``` to set a property size relative to the container’s font-size
-- I can use ```width```, ```height```, ```padding```, ```margin```, and ```border``` CSS properties to control the size of HTML elements
-
+- I can use relative units with box model properties to create designs the adapt to different screen sizes
 
 ## Directions
 1. Install Live Server and Go Live to view how the webpage looks with no styling
