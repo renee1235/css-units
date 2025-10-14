@@ -1,0 +1,29 @@
+body {
+    background-color: pink;
+}
+
+.header {
+    background-color: darkred;
+    padding: 5%;
+    font-size: 30px;
+}
+
+.header h1 {
+    color:cornsilk;
+    font-size: 1em;
+}
+
+.haeder {
+    color:red;
+    font-size: 1em;
+}
+
+.gallery {
+    background-color: darkred;
+}
+
+.gallery img {
+    width: 25%;
+    margin: 3%;
+}
+
